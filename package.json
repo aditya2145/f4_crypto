@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/f4_crypto_project",
+  "homepage": "https://aditya2145.github.io/f4_crypto_project",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
